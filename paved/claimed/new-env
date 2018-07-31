@@ -1,1 +1,0 @@
-{"az":"us-east-1e","default_security_groups":"bosh-default","external_ip":"18.211.2.61","internal_cidr":"10.0.0.0/16","internal_gw":"10.0.0.1","region":"us-east-1","subnet_id":"subnet-390ecd07"}
